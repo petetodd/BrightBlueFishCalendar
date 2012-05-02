@@ -1,0 +1,3 @@
+BBFCalendar is designed for the iPad. Simply create a UIView of any size (but 700 * 550 is quite neat) and subclass it as BBFCalendar.
+
+It works now but I'll update it as I refine and apply it.
